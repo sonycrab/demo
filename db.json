@@ -1,7 +1,11 @@
 {
-  "id": 1,
-  "accion": 1,
-  "horainicio": " ",
-  "horafin": " ",
-  "atendida": null
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
